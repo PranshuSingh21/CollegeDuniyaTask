@@ -1,0 +1,178 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+}
+table,
+th,
+td {
+  border: 1px solid;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th {
+  padding: 15px;
+  text-align: left;
+  font-weight: 400;
+  color: white;
+  background-color: rgb(136, 189, 196);
+}
+tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+#upperFunctions {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#sortButtons {
+  display: flex;
+}
+tr.featured {
+  background-color: beige;
+}
+.outer {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.collegeName a {
+  color: #87cefa; /* Light sky blue color */
+  font-weight: bold; /* Optional: make the college name bold */
+}
+
+.collegePlace {
+  color: #87cefa; /* Light sky blue color */
+}
+
+.nameInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.logo img {
+  max-height: 100%;
+  height: auto;
+  width: auto;
+  max-width: 100px;
+}
+
+.content {
+  flex: 1; /* Allow content to take available space */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Space content evenly */
+}
+
+.collegeName,
+.collegePlace,
+.coursesOffered {
+  margin-bottom: 10px;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.actions button {
+  flex: 1;
+  margin: 0 5px; /* Space between buttons */
+  padding: 10px;
+  border: none;
+  background-color: aliceblue;
+  color: orange;
+}
+
+.courseFeesData {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  padding-top: 10px;
+  font-size: small;
+}
+
+.fees {
+  color: green;
+  font-size: medium;
+}
+
+.courseFeesData button {
+  background-color: aliceblue;
+  color: orange;
+  border: none;
+  cursor: pointer;
+}
+
+.placementData {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  padding-top: 10px;
+  font-size: small;
+}
+
+.packageMoney {
+  color: green;
+  font-size: medium;
+}
+.placementData button {
+  background-color: aliceblue;
+  color: orange;
+  border: none;
+  cursor: pointer;
+}
+
+.userReviewsData {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  padding-top: 10px;
+  font-size: small;
+}
+
+.userReviewRating {
+  font-size: medium;
+}
+
+.rankingData {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  padding-top: 10px;
+  font-size: small;
+}
+
+.rankGiven {
+  font-size: medium;
+}
+
+.load_more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}

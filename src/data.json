@@ -1,0 +1,524 @@
+{
+    "colleges":[
+        {
+            "cdRank":1,
+            "logo":"https://images.collegedunia.com/public/college_data/images/logos/1434977143jpjpjpjpj.jpg?h=28&w=28&mode=stretch",
+            "name":"IIT Madras:Indian Institute of Technology- [IITM]",
+            "place":"Chennai, Tamil Nadu",
+            "approvedBy":"AICTE approved",
+            "isFeatured":false,
+            "courses":[
+                {
+                    "course":"B.Tech Computer Science Engineering",
+                    "cutoff_2024_rank":419,
+                    "cutoff_2023_rank":148
+                },
+                {
+                    "course":"B.Tech Electrical Engineering",
+                    "cutoff_2024_rank":838,
+                    "cutoff_2023_rank":964
+                },
+                {
+                    "course":"B.Tech Engineering Physics",
+                    "cutoff_2024_rank":1858,
+                    "cutoff_2023_rank":1877
+                },
+                {
+                    "course":"B.Tech Mechanical Engineering",
+                    "cutoff_2024_rank":2310,
+                    "cutoff_2023_rank":2572
+                },
+                {
+                    "course":"B.Tech + M.Tech Aerospace Engineering",
+                    "cutoff_2024_rank":"-",
+                    "cutoff_2023_rank":3293
+                }
+            ],
+            "courseFees":242000,
+            "placement":{
+                    "averagePackage":2148000,
+                    "highestPackage":19800000
+            },
+            "userReviews":{
+                "rating":4.2,
+                "noOfUsers":365
+            },
+            "ranking":[
+                {
+                    "nameOfOrg":"THE WEEK",
+                    "rank":3,
+                    "year":2024,
+                    "outOf":275
+                }
+            ]
+        },
+        {
+            "cdRank":2,
+            "logo":"https://images.collegedunia.com/public/college_data/images/logos/1408554560logo.png?h=43&w=43&mode=stretch",
+            "name":"IIT Delhi:Indian Institute of Technology- [IITD], New Delhi",
+            "place":"New Delhi, Delhi NCR",
+            "approvedBy":"AICTE approved",
+            "isFeatured":true,
+            "courses":[
+                {
+                    "course":"B.Tech Computer Science Engineering",
+                    "cutoff_2024_rank":417,
+                    "cutoff_2023_rank":148
+                },
+                {
+                    "course":"B.Tech Electrical Engineering",
+                    "cutoff_2024_rank":838,
+                    "cutoff_2023_rank":964
+                },
+                {
+                    "course":"B.Tech Engineering Physics",
+                    "cutoff_2024_rank":1858,
+                    "cutoff_2023_rank":1877
+                },
+                {
+                    "course":"B.Tech Mechanical Engineering",
+                    "cutoff_2024_rank":2310,
+                    "cutoff_2023_rank":2572
+                },
+                {
+                    "course":"B.Tech + M.Tech Aerospace Engineering",
+                    "cutoff_2024_rank":"-",
+                    "cutoff_2023_rank":3293
+                }
+            ],
+            "courseFees":342000,
+            "placement":{
+                    "averagePackage":2582000,
+                    "highestPackage":20000000
+            },
+            "userReviews":{
+                "rating":4.3,
+                "noOfUsers":559
+            },
+            "ranking":[
+                {
+                    "nameOfOrg":"INDIA Today",
+                    "rank":1,
+                    "year":2024,
+                    "outOf":31
+                }
+            ]
+        },
+        {
+            "cdRank":3,
+            "logo":"https://images.collegedunia.com/public/college_data/images/logos/1431953162ccgsygdygw.jpg?h=43&w=43&mode=stretch",
+            "name":"IIT Bombay:Indian Institute of Technology- [IITB], Mumbai",
+            "place":"Mumbai, Maharastra",
+            "approvedBy":"AICTE, UGC approved",
+            "isFeatured":false,
+            "courses":[
+                {
+                    "course":"B.Tech Computer Science Engineering",
+                    "cutoff_2024_rank":68,
+                    "cutoff_2023_rank":148
+                },
+                {
+                    "course":"B.Tech Electrical Engineering",
+                    "cutoff_2024_rank":838,
+                    "cutoff_2023_rank":964
+                },
+                {
+                    "course":"B.Tech Engineering Physics",
+                    "cutoff_2024_rank":1858,
+                    "cutoff_2023_rank":1877
+                },
+                {
+                    "course":"B.Tech Mechanical Engineering",
+                    "cutoff_2024_rank":2310,
+                    "cutoff_2023_rank":2572
+                },
+                {
+                    "course":"B.Tech + M.Tech Aerospace Engineering",
+                    "cutoff_2024_rank":"-",
+                    "cutoff_2023_rank":3293
+                }
+            ],
+            "courseFees":230700,
+            "placement":{
+                    "averagePackage":2182000,
+                    "highestPackage":36700000
+            },
+            "userReviews":{
+                "rating":4.4,
+                "noOfUsers":339
+            },
+            "ranking":[
+                {
+                    "nameOfOrg":"INDIA Today",
+                    "rank":2,
+                    "year":2024,
+                    "outOf":31
+                }
+            ]
+        },
+        {
+            "cdRank":4,
+            "logo":"https://images.collegedunia.com/public/college_data/images/logos/1489041138e2.jpg?h=43&w=43&mode=stretch",
+            "name":"IIT Kharagpur:Indian Institute of Technology- [IITKGP], Kharagpur",
+            "place":"Kharagpur, West Bengal",
+            "approvedBy":"AICTE, UGC, NBA approved",
+            "isFeatured":false,
+            "courses":[
+                {
+                    "course":"B.Tech Computer Science Engineering",
+                    "cutoff_2024_rank":898,
+                    "cutoff_2023_rank":148
+                },
+                {
+                    "course":"B.Tech Electrical Engineering",
+                    "cutoff_2024_rank":838,
+                    "cutoff_2023_rank":964
+                },
+                {
+                    "course":"B.Tech Engineering Physics",
+                    "cutoff_2024_rank":1858,
+                    "cutoff_2023_rank":1877
+                },
+                {
+                    "course":"B.Tech Mechanical Engineering",
+                    "cutoff_2024_rank":2310,
+                    "cutoff_2023_rank":2572
+                },
+                {
+                    "course":"B.Tech + M.Tech Aerospace Engineering",
+                    "cutoff_2024_rank":"-",
+                    "cutoff_2023_rank":3293
+                }
+            ],
+            "courseFees":223600,
+            "placement":{
+                    "averagePackage":2148000,
+                    "highestPackage":26000000
+            },
+            "userReviews":{
+                "rating":4.3,
+                "noOfUsers":673
+            },
+            "ranking":[
+                {
+                    "nameOfOrg":"INDIA Today",
+                    "rank":4,
+                    "year":2024,
+                    "outOf":31
+                }
+            ]
+        },
+        {
+            "cdRank":5,
+            "logo":"https://images.collegedunia.com/public/college_data/images/logos/1431775682rajiv.jpg?h=43&w=43&mode=stretch",
+            "name":"IIT Roorkee:Indian Institute of Technology- [IITR], Roorkee",
+            "place":"Roorkee, Uttrakhand",
+            "approvedBy":"AICTE,UGC approved",
+            "isFeatured":false,
+            "courses":[
+                {
+                    "course":"B.Tech Computer Science Engineering",
+                    "cutoff_2024_rank":252,
+                    "cutoff_2023_rank":148
+                },
+                {
+                    "course":"B.Tech Electrical Engineering",
+                    "cutoff_2024_rank":838,
+                    "cutoff_2023_rank":964
+                },
+                {
+                    "course":"B.Tech Engineering Physics",
+                    "cutoff_2024_rank":1858,
+                    "cutoff_2023_rank":1877
+                },
+                {
+                    "course":"B.Tech Mechanical Engineering",
+                    "cutoff_2024_rank":2310,
+                    "cutoff_2023_rank":2572
+                },
+                {
+                    "course":"B.Tech + M.Tech Aerospace Engineering",
+                    "cutoff_2024_rank":"-",
+                    "cutoff_2023_rank":3293
+                }
+            ],
+            "courseFees":230100,
+            "placement":{
+                    "averagePackage":1834000,
+                    "highestPackage":13000000
+            },
+            "userReviews":{
+                "rating":4.3,
+                "noOfUsers":494
+            },
+            "ranking":[
+                {
+                    "nameOfOrg":"INDIA Today",
+                    "rank":5,
+                    "year":2024,
+                    "outOf":31
+                }
+            ]
+        },
+        {
+            "cdRank":6,
+            "logo":"https://images.collegedunia.com/public/college_data/images/logos/1408554560logo.png?h=43&w=43&mode=stretch",
+            "name":"IIT Kanpur:Indian Institute of Technology- [IITK], Kanpur",
+            "place":"Kanpur, Uttar Pradesh",
+            "approvedBy":"UGC approved",
+            "isFeatured":false,
+            "courses":[
+                {
+                    "course":"B.Tech Computer Science Engineering",
+                    "cutoff_2024_rank":680,
+                    "cutoff_2023_rank":148
+                },
+                {
+                    "course":"B.Tech Electrical Engineering",
+                    "cutoff_2024_rank":838,
+                    "cutoff_2023_rank":964
+                },
+                {
+                    "course":"B.Tech Engineering Physics",
+                    "cutoff_2024_rank":1858,
+                    "cutoff_2023_rank":1877
+                },
+                {
+                    "course":"B.Tech Mechanical Engineering",
+                    "cutoff_2024_rank":2310,
+                    "cutoff_2023_rank":2572
+                },
+                {
+                    "course":"B.Tech + M.Tech Aerospace Engineering",
+                    "cutoff_2024_rank":"-",
+                    "cutoff_2023_rank":3293
+                }
+            ],
+            "courseFees":229970,
+            "placement":{
+                    "averagePackage":2148000,
+                    "highestPackage":19000000
+            },
+            "userReviews":{
+                "rating":4.4,
+                "noOfUsers":430
+            },
+            "ranking":[
+                {
+                    "nameOfOrg":"INDIA Today",
+                    "rank":3,
+                    "year":2024,
+                    "outOf":31
+                }
+            ]
+        },
+        {
+            "cdRank":7,
+            "logo":"https://images.collegedunia.com/public/college_data/images/logos/1589790676112018648848892482726766654702028085722509n.jpg?h=43&w=43&mode=stretch",
+            "name":"BITS Pilani [Pilani Campus], Pilani",
+            "place":"Pilani, Rajasthan",
+            "approvedBy":"UGC approved",
+            "isFeatured":false,
+            "courses":[
+                {
+                    "course":"B.Tech Computer Science Engineering",
+                    "cutoff_2024_rank":9000,
+                    "cutoff_2023_rank":148
+                },
+                {
+                    "course":"B.Tech Electrical Engineering",
+                    "cutoff_2024_rank":838,
+                    "cutoff_2023_rank":964
+                },
+                {
+                    "course":"B.Tech Engineering Physics",
+                    "cutoff_2024_rank":1858,
+                    "cutoff_2023_rank":1877
+                },
+                {
+                    "course":"B.Tech Mechanical Engineering",
+                    "cutoff_2024_rank":2310,
+                    "cutoff_2023_rank":2572
+                },
+                {
+                    "course":"B.Tech + M.Tech Aerospace Engineering",
+                    "cutoff_2024_rank":"-",
+                    "cutoff_2023_rank":3293
+                }
+            ],
+            "courseFees":603775,
+            "placement":{
+                    "averagePackage":3037000,
+                    "highestPackage":6075000
+            },
+            "userReviews":{
+                "rating":4.4,
+                "noOfUsers":614
+            },
+            "ranking":[
+                {
+                    "nameOfOrg":"INDIA Today",
+                    "rank":1,
+                    "year":2024,
+                    "outOf":253
+                }
+            ]
+        },
+        {
+            "cdRank":8,
+            "logo":"https://images.collegedunia.com/public/college_data/images/logos/1394864902Indian%20Institute%20of%20Technology%20-%20IIT%20Guwahati.png?h=43&w=43&mode=stretch",
+            "name":"IIT Guwahati:Indian Institute of Technology- [IITG], Guwahati",
+            "place":"Kanpur, Uttar Pradesh",
+            "approvedBy":"AICTE, UGC approved",
+            "isFeatured":false,
+            "courses":[
+                {
+                    "course":"B.Tech Computer Science Engineering",
+                    "cutoff_2024_rank":1021,
+                    "cutoff_2023_rank":148
+                },
+                {
+                    "course":"B.Tech Electrical Engineering",
+                    "cutoff_2024_rank":838,
+                    "cutoff_2023_rank":964
+                },
+                {
+                    "course":"B.Tech Engineering Physics",
+                    "cutoff_2024_rank":1858,
+                    "cutoff_2023_rank":1877
+                },
+                {
+                    "course":"B.Tech Mechanical Engineering",
+                    "cutoff_2024_rank":2310,
+                    "cutoff_2023_rank":2572
+                },
+                {
+                    "course":"B.Tech + M.Tech Aerospace Engineering",
+                    "cutoff_2024_rank":"-",
+                    "cutoff_2023_rank":3293
+                }
+            ],
+            "courseFees":288250,
+            "placement":{
+                    "averagePackage":1848000,
+                    "highestPackage":24000000
+            },
+            "userReviews":{
+                "rating":4.3,
+                "noOfUsers":394
+            },
+            "ranking":[
+                {
+                    "nameOfOrg":"INDIA Today",
+                    "rank":6,
+                    "year":2024,
+                    "outOf":31
+                }
+            ]
+        },
+        {
+            "cdRank":9,
+            "logo":"https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=43&w=43&mode=stretch",
+            "name":"IIT Hyderabad:Indian Institute of Technology- [IITH], Hyderabad",
+            "place":"Hyderabad, Telangana",
+            "approvedBy":"UGC approved",
+            "isFeatured":false,
+            "courses":[
+                {
+                    "course":"B.Tech Computer Science Engineering",
+                    "cutoff_2024_rank":982,
+                    "cutoff_2023_rank":148
+                },
+                {
+                    "course":"B.Tech Electrical Engineering",
+                    "cutoff_2024_rank":838,
+                    "cutoff_2023_rank":964
+                },
+                {
+                    "course":"B.Tech Engineering Physics",
+                    "cutoff_2024_rank":1858,
+                    "cutoff_2023_rank":1877
+                },
+                {
+                    "course":"B.Tech Mechanical Engineering",
+                    "cutoff_2024_rank":2310,
+                    "cutoff_2023_rank":2572
+                },
+                {
+                    "course":"B.Tech + M.Tech Aerospace Engineering",
+                    "cutoff_2024_rank":"-",
+                    "cutoff_2023_rank":3293
+                }
+            ],
+            "courseFees":241888,
+            "placement":{
+                    "averagePackage":2007000,
+                    "highestPackage":6378000
+            },
+            "userReviews":{
+                "rating":4.3,
+                "noOfUsers":189
+            },
+            "ranking":[
+                {
+                    "nameOfOrg":"NIRF",
+                    "rank":8,
+                    "year":2024,
+                    "outOf":300
+                }
+            ]
+        },
+        {
+            "cdRank":10,
+            "logo":"https://images.collegedunia.com/public/college_data/images/logos/13941065084.png?h=43&w=43&mode=stretch",
+            "name":"College of Engineering, Anna University - [CEG] - Chennai",
+            "place":"Chennai, Tamil Nadu",
+            "approvedBy":"AICTE approved",
+            "isFeatured":false,
+            "courses":[
+                {
+                    "course":"B.Tech Computer Science Engineering",
+                    "cutoff_2024_rank":10000,
+                    "cutoff_2023_rank":148
+                },
+                {
+                    "course":"B.Tech Electrical Engineering",
+                    "cutoff_2024_rank":838,
+                    "cutoff_2023_rank":964
+                },
+                {
+                    "course":"B.Tech Engineering Physics",
+                    "cutoff_2024_rank":1858,
+                    "cutoff_2023_rank":1877
+                },
+                {
+                    "course":"B.Tech Mechanical Engineering",
+                    "cutoff_2024_rank":2310,
+                    "cutoff_2023_rank":2572
+                },
+                {
+                    "course":"B.Tech + M.Tech Aerospace Engineering",
+                    "cutoff_2024_rank":"-",
+                    "cutoff_2023_rank":3293
+                }
+            ],
+            "courseFees":47200,
+            "placement":{
+                    "averagePackage":2148000,
+                    "highestPackage":19000000
+            },
+            "userReviews":{
+                "rating":4.2,
+                "noOfUsers":103
+            },
+            "ranking":[
+                {
+                    "nameOfOrg":"THE WEEK",
+                    "rank":12,
+                    "year":2024,
+                    "outOf":275
+                }
+            ]
+        }
+    ]
+}
